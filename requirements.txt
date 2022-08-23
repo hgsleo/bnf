@@ -6,6 +6,6 @@ idna==2.9
 pytz==2020.1
 requests==2.23.0
 six==1.15.0
-tzlocal==2.1
+tzlocal
 urllib3==1.25.9
 websocket-client==0.57.0
