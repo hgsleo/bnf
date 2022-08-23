@@ -1,11 +1,11 @@
 APScheduler
-binance-futures==1.1.0
-certifi==2020.4.5.2
-chardet==3.0.4
-idna==2.9
+binance-futures
+certifi
+chardet
+idna
 pytz
-requests==2.23.0
-six==1.15.0
+requests
+six
 tzlocal
 urllib3
 websocket-client==0.57.0
