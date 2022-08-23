@@ -1,4 +1,4 @@
-apscheduler
+apscheduler>=3.9.1
 binance-futures
 certifi
 chardet
@@ -6,6 +6,6 @@ idna
 pytz
 requests
 six
-tzlocal
+tzlocal>=3.0
 urllib3
 websocket-client==0.57.0
